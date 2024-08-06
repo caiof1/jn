@@ -79,7 +79,7 @@ const Home = () => {
                 4,9
               </span>
             </div>
-            <a href="https://maps.app.goo.gl/mAkTwEcgPxigupmu9" target="_blank">
+            <a href="https://maps.app.goo.gl/mAkTwEcgPxigupmu9">
               <button>Ver</button>
             </a>
           </div>
@@ -145,7 +145,7 @@ const Home = () => {
               <span className={styles.avaliation}>4.9 / 5 avaliação</span>
               <span>Google</span>
             </div>
-            <a href="https://maps.app.goo.gl/mAkTwEcgPxigupmu9" target="_blank">
+            <a href="https://maps.app.goo.gl/mAkTwEcgPxigupmu9">
               <button>Perfil da JN no Google</button>
             </a>
           </div>
@@ -333,7 +333,7 @@ const Home = () => {
               <span>Julio</span>
               <span>Tecnico especializado</span>
             </div>
-            <a href="https://contate.me/jnassistenciatecnica" target="_blank">
+            <a href="https://contate.me/jnassistenciatecnica">
               <button><i class="fa-regular fa-comment"></i></button>
             </a>
           </div>
