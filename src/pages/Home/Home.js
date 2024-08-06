@@ -249,7 +249,7 @@ const Home = () => {
               <p>Álax Almeida</p>
             </span>
           </div>
-          <p className={styles.avaliation_text}>O técnico que veio foi super cordial, sincero e atencioso as dúvidas. Prestou o serviço com cuidado e resolveu o problema da Geladeira. Difícil acha profissionais na área que atenda as expectativas, toda vez que precisa sei onde ligar. Outra coisa o preço é um dos melhores que achei na pesquisa.
+          <p className={styles.avaliation_text}>O técnico que veio foi super cordial, sincero e atencioso as dúvidas. Prestou o serviço com cuidado e resolveu o problema da Geladeira. Difícil acha profissionais na área que atenda as expectativas
           </p>
           
         </SwiperSlide>
