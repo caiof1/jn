@@ -7,7 +7,6 @@ import Footer from '../../components/Footer/Footer'
 import {useEffect, useState} from 'react'
 
 import image from '../../images/man.png'
-import eletrolux from '../../images/Group 140.png'
 import activy from '../../images/activity 1.png'
 import command from '../../images/command 1.png'
 import piechart from '../../images/pie-chart 1.png'
