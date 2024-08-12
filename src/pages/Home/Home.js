@@ -64,8 +64,8 @@ const Home = () => {
       <Header />
       <section className={styles.assistencia_image}>
         <div className={styles.text_assist}>
-          <h1>Assistencia de Geladeira e Freezer</h1>
-          <p className={styles.text_thebest}>A melhor e mais bem avaliada assistencia tecnica de Geladeira e Freezer de Belo Horizonte, com mais de 5 anos de experiencia!</p>
+          <h1>Assistência de Geladeira e Freezer</h1>
+          <p className={styles.text_thebest}>A melhor e mais bem avaliada assistência técnica de Geladeira e Freezer de Belo Horizonte, com mais de 5 anos de experiencia!</p>
           <a href="https://contate.me/jnassistenciatecnica">
             <button>Entre em contato conosco!</button>
           </a>
@@ -110,19 +110,19 @@ const Home = () => {
           className={styles.all_marcas}
         >
           <SwiperSlide className={styles.swiperSlide}>
-            <img src={eletrolux} alt=""/>
+            <i class="fa-solid fa-snowflake"></i>
             <span>Eletrolux</span>
           </SwiperSlide>
           <SwiperSlide className={styles.swiperSlide}>
-            <img src={eletrolux} alt=""/>
+            <i class="fa-solid fa-snowflake"></i>
             <span>Consul</span>
           </SwiperSlide>
           <SwiperSlide className={styles.swiperSlide}>
-            <img src={eletrolux} alt=""/>
+            <i class="fa-solid fa-snowflake"></i>
             <span>Brastemp</span>
           </SwiperSlide>
           <SwiperSlide className={styles.swiperSlide}>
-            <img src={eletrolux} alt=""/>
+            <i class="fa-solid fa-snowflake"></i>
             <span>Continental</span>
           </SwiperSlide>
         </Swiper>
